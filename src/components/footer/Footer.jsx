@@ -43,6 +43,10 @@ const Footer = () => {
                         <FaLinkedin />
                     </span>
                 </div>
+                <br />
+                <div>
+                <p>Copyright Sansk@r 2023 - All Right Reserved.</p>
+                </div>
             </ContentWrapper>
         </footer>
     );
